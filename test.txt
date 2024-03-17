@@ -1,2 +1,1 @@
-Hello frend
-Hello frend1
+Hello World
